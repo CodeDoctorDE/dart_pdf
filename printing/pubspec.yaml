@@ -36,7 +36,11 @@ dependencies:
       url: https://github.com/CodeDoctorDE/dart_pdf.git
       ref: 4be45bf7000640f38cb62088899a0f5185b4dc89
       path: pdf
-  pdf_widget_wrapper: ">=1.0.4 <2.0.0"
+  pdf_widget_wrapper:
+    git:
+      url: https://github.com/CodeDoctorDE/dart_pdf.git
+      ref: 4be45bf7000640f38cb62088899a0f5185b4dc89
+      path: pdf
   plugin_platform_interface: ^2.1.0
   web: ^1.0.0
 
